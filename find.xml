@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory '/Users/ashleydavies/sites/drizzlyowl.co.uk/resources/assets/sass'" />
     <option name="defaultScopeName" value="Directory '/Users/ashleydavies/sites/drizzlyowl.co.uk/resources/assets/sass'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/ashleydavies/sites/drizzlyowl.co.uk/resources/assets/sass'" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -17,6 +15,7 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
