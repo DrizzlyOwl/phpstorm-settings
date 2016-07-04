@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitmodules" type="Git file" />
       <mapping ext="markdown" type="Markdown" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
