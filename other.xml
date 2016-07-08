@@ -59,4 +59,7 @@
       <version-cache version="6.2.0" last-modified="1463514794000" />
     </local-interpreter>
   </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+  </component>
 </application>
