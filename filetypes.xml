@@ -4,6 +4,7 @@
       <mapping pattern=".gitmodules" type="Git file" />
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="SQL" />
     </extensionMap>
   </component>
 </application>
