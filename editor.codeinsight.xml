@@ -3,6 +3,9 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
+  </component>
   <component name="JSCodeFoldingSettings">
     <option name="collapseArrayLiterals" value="true" />
     <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
