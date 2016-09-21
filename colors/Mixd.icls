@@ -1,7 +1,7 @@
 <scheme name="Mixd" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="PT Mono" />
+    <option name="EDITOR_FONT_NAME" value="Anonymous Pro" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
@@ -731,7 +731,6 @@
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="e6db74" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_COMMENT">
