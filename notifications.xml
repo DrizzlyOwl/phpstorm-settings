@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="IDE Usage Statistics" />
+    <notification groupId="Indexing" displayType="STICKY_BALLOON" />
+    <notification groupId="PHP PSR-0 Namespace Root Detection" shouldLog="false" />
+  </component>
+</application>
