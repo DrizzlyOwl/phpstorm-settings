@@ -3,7 +3,7 @@
     <option name="customScope" value="Directory '/Users/ashleydavies/sites/drizzlyowl.co.uk/resources/assets/sass'" />
     <option name="defaultScopeName" value="Directory '/Users/ashleydavies/sites/drizzlyowl.co.uk/resources/assets/sass'" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/ashleydavies/sites/drizzlyowl.co.uk/resources/assets/sass'" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -16,6 +16,7 @@
       <mask>*.html</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
